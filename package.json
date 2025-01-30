@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "cspell": "^8.17.3",
+    "eslint": "^9.19.0"
+  }
+}
